@@ -10,4 +10,4 @@ mongoose.connect(process.env.DB_URL).then((a)=>{
 
 }
 
-module.exports=connectDatabase
+module.exports=connectDatabase;
